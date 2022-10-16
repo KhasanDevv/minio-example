@@ -20,7 +20,7 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "esModuleInterop": true,
-    "types": ["node", "@types/jest"],
+    "types": ["node"],
     "typeRoots": ["./node_modules/@types"]
   },
   "exclude": ["node_modules"]
